@@ -21,7 +21,7 @@ production-scale observability pipelines used at AWS, Google SRE, and Datadog.
 
 ## Dashboard Preview
 
-![Anomaly Detection Dashboard](dashboard_preview.png)
+![Anomaly Detection Dashboard](anomaly_detection_dashboard.png)
 
 ---
 
